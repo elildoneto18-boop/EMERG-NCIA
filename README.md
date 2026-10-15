@@ -19,7 +19,7 @@ No `script.js`:
 - `CALLS`: histórico de chamadas perdidas e atendidas.
 
 ## Imagens
-`assets/images/profile-elildo.jpg` é usada como foto de perfil do contato Elildo. `home-wallpaper.jpg` e `lockscreen-wallpaper.jpg` são os papéis de parede de referência. `chat-reference.jpg` e `calls-reference.jpg` ficam disponíveis para novas personalizações.
+`./assets/images/profile-elildo.jpg` é usada como foto de perfil do contato Elildo. `./home-wallpaper.jpg` e `./lockscreen-wallpaper.jpg` são os papéis de parede de referência. `./chat-reference.jpg` e `./calls-reference.jpg` ficam disponíveis para novas personalizações.
 
 ## Recursos
 - Desbloqueio por padrão desenhado em formato de quadrado (canto superior esquerdo → superior direito → inferior direito → inferior esquerdo).
